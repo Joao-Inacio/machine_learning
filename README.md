@@ -1,8 +1,8 @@
-# Curso Completo de Machine Learning
+# **Curso Completo de Machine Learning**
 
 ---
 
-## Sobre:
+## **Sobre:**
 
 Objetivo apresentar todos os principais métodos e algoritmos de Aprendizado de Máquina (Machine Learning) em Python.
 
@@ -11,7 +11,7 @@ Objetivo apresentar todos os principais métodos e algoritmos de Aprendizado de 
 
 ---
 
-## Tecnologias
+## **Tecnologias:**
 
 <div>
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Logo Python" height="50" width="60" />
